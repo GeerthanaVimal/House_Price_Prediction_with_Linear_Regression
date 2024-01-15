@@ -1,5 +1,5 @@
 # PRODIGY_ML_01
-##linear regression model
+Linear regression model
 
 Task-01
 
