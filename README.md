@@ -1,4 +1,5 @@
-# PRODIGY_ML_01
+# House_Price_Prediction_with_Linear_Regression
+
 Linear regression model
 
 Task-01
